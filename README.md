@@ -17,6 +17,10 @@ Visualizations
 Exploratory Data Analysis (EDA)
 We conducted exploratory data analysis to gain insights into the dataset's characteristics. Visualizations such as histograms, box plots, and correlation matrices helped us understand the distribution of features, identify correlations, and detect patterns in the data.
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 Model Evaluation
 We visualized the performance of each model using metrics such as accuracy, precision, recall, and F1-score. Additionally, we generated confusion matrices to analyze the model's predictions and evaluate its effectiveness in classifying patients as diabetic or non-diabetic.
 
